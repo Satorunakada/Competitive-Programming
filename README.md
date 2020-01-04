@@ -4,3 +4,4 @@ This repository contains a collection of solutions for many of the Competitive P
 ## CP Websites + Personal handle
 - **UVa Online Judge:** Satoruu
 - **Codeforces:** Nakatoru
+- **Sphere Online Judge (SPOJ):** Satoruu
