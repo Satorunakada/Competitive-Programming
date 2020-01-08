@@ -1,5 +1,5 @@
 // Codeforces - 1287A
-// Author: Satoru Diaz Nakada (Satoruu)
+// Author: Satoru Diaz Nakada (Nakatoru)
 #include <bits/stdc++.h>
 using namespace std;
  
